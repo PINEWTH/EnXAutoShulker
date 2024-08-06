@@ -1,0 +1,4 @@
+shulker-messages:
+  open: "&a[✔] Вы успешно открыли шалкер"
+  pvp-mode: "&4[X] Вы не можете открыть шалкер во время режима PVP!"
+shulker-inventory-size: 36 # Enter Your Size For Inventory
